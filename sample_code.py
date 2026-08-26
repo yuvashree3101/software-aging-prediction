@@ -13,7 +13,9 @@ def calculate_result(numbers):
 
 
 def check_status(value):
-    if value > 80:
+    if value > 100:
+        return "Very High"
+    elif value > 80:
         return "High"
     elif value > 50:
         return "Medium"
