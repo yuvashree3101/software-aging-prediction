@@ -29,3 +29,22 @@ status = check_status(result)
 
 print("Result:", result)
 print("Status:", status)
+def calculate_average(numbers):
+    if not numbers:
+        return 0
+
+    total = sum(numbers)
+    return total / len(numbers)
+
+
+def find_maximum(numbers):
+    if not numbers:
+        return 0
+
+    maximum = numbers[0]
+
+    for number in numbers:
+        if number > maximum:
+            maximum = number
+
+    return maximum
