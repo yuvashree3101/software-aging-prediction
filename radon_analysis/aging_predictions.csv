@@ -1,0 +1,4 @@
+Version,Commit_ID,Date,Commit_Message,Python_Files,LOC,LLOC,SLOC,Comments,Blank_Lines,Average_Complexity,Maintainability_Index,Halstead_Volume,Halstead_Difficulty,Halstead_Effort,Insertions,Deletions,Complexity_Score,Effort_Score,LOC_Score,Maintainability_Score,Aging_Score,Aging_Level,Predicted_Aging_Score
+2,b69bc8c6,2026-08-26,Add Radon metrics analysis,2,124,58,84,8,32,1.75,64.14,155.42,5.36,435.66,126,0,0.875,0.1307177383784951,0.2262773722627737,0.0,34.7,Low,34.699999999999875
+3,ee2e60b8,2026-08-26,Update software metrics for version 2,2,126,60,86,8,32,2.0,63.44,169.41,5.4,489.96,4,2,1.0,0.1470101985399795,0.22992700729927,0.0109136264421578,39.23,Low,39.22999999999993
+4,dc0618d0,2026-08-29,Expand software aging dataset,5,548,233,401,19,128,1.93,61.83,846.42,14.62,3332.83,447,2,0.965,1.0,1.0,0.0360149672591206,79.67,High,79.67000000000016

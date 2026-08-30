@@ -2,3 +2,4 @@ Version,Commit_ID,Date,Commit_Message,Python_Files,LOC,LLOC,SLOC,Comments,Blank_
 1,bb146f13,2026-08-26,Initial commit,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,b69bc8c6,2026-08-26,Add Radon metrics analysis,2,124,58,84,8,32,1.75,64.14,155.42,5.36,435.66,126,0
 3,ee2e60b8,2026-08-26,Update software metrics for version 2,2,126,60,86,8,32,2.0,63.44,169.41,5.4,489.96,4,2
+4,dc0618d0,2026-08-29,Expand software aging dataset,5,548,233,401,19,128,1.93,61.83,846.42,14.62,3332.83,447,2

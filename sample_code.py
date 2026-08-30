@@ -48,3 +48,13 @@ def find_maximum(numbers):
             maximum = number
 
     return maximum
+def calculate_average(numbers):
+    total = 0
+
+    for number in numbers:
+        total += number
+
+    if len(numbers) > 0:
+        return total / len(numbers)
+
+    return 0
