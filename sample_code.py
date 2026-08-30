@@ -58,3 +58,14 @@ def calculate_average(numbers):
         return total / len(numbers)
 
     return 0
+def find_maximum(numbers):
+    if len(numbers) == 0:
+        return 0
+
+    maximum = numbers[0]
+
+    for number in numbers:
+        if number > maximum:
+            maximum = number
+
+    return maximum

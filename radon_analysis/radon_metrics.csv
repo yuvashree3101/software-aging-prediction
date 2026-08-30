@@ -1,2 +1,2 @@
 File,Average_Complexity,Maintainability_Index,LOC,LLOC,SLOC,Comments,Blank_Lines,Halstead_Volume,Halstead_Difficulty,Halstead_Effort
-sample_code.py,3.5,48.78,50,37,37,0,13,165.0,4.5,742.5
+sample_code.py,3.4,46.05,60,44,44,0,16,216.22,4.5,972.99
